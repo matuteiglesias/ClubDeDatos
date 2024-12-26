@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/matias/repos/ClubDeDatos/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+Club de Datos de Exactas - UBA	README.md	/^## Club de Datos de Exactas - UBA$/;"	s
+Dinámica	README.md	/^### Dinámica$/;"	S	section:Club de Datos de Exactas - UBA
+Lenguaje	README.md	/^### Lenguaje$/;"	S	section:Club de Datos de Exactas - UBA
+Niveles	README.md	/^### Niveles$/;"	S	section:Club de Datos de Exactas - UBA
+Repo	README.md	/^### Repo$/;"	S	section:Club de Datos de Exactas - UBA
+Roles	README.md	/^### Roles$/;"	S	section:Club de Datos de Exactas - UBA
+Salas	README.md	/^### Salas$/;"	S	section:Club de Datos de Exactas - UBA
